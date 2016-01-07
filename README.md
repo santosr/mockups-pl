@@ -1,2 +1,2 @@
 # mockups-pl
-Pattern Lib mockups
+Mockups for Pattern Library page type to show interaction with atoms page.
